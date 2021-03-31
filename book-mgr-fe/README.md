@@ -8,11 +8,9 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-```
+```ddd
 
-### Compiles and minifies for production
-```
-npm run build
+### Compiles and minifies for production run build
 ```
 
 ### Lints and fixes files
